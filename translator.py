@@ -30,7 +30,6 @@ latinextendeda['w'] = letterRange(0x174, 0x175)
 latinextendeda['y'] = letterRange(0x176, 0x178)
 latinextendeda['z'] = letterRange(0x179, 0x17d)
 
-
 outputStr = []
 
 inputStr = sys.argv[1]
