@@ -7,5 +7,7 @@ obscure unicode characters!
 Example usage: 
 
 ./translator.py "raps like star wars, only the stars die and there's no sequel"
+
 raps like star wars, only the stars die and there's no sequel
+
 ŕāpſ ľįķĖ şŢāŔ ŴĄŗŠ, ŐņĿŶ ŦĦĘ ŚŦāŖś ĎĮę āńĎ ţĥĚŗĕ'ŝ ŅŌ ŠĒqŮĒĽ
