@@ -34,7 +34,7 @@ outputStr = []
 
 inputStr = sys.argv[1]
 
-for c in inputStr:
+for c in inputStr.lower():
     if c in latinextendeda:
         chars = latinextendeda[c]
         r = random.randint(0, len(chars)-1)
